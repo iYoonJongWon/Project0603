@@ -64,6 +64,7 @@ class USA : ComponentActivity() {
     }
 }
 
+
 @Preview(showBackground = true)
 @Composable
 fun USAPreview1() {
